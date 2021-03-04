@@ -1,0 +1,36 @@
+E:\C# Coding\PROJECT\GiftShopManager\GiftShopManager\obj\x86\Debug\GiftShopManager.Properties.Resources.resources
+E:\C# Coding\PROJECT\GiftShopManager\GiftShopManager\obj\x86\Debug\GiftShopManager.csproj.GenerateResource.Cache
+E:\C# Coding\PROJECT\GiftShopManager\GiftShopManager\bin\Debug\GiftShopManager.exe
+E:\C# Coding\PROJECT\GiftShopManager\GiftShopManager\bin\Debug\GiftShopManager.pdb
+E:\C# Coding\PROJECT\GiftShopManager\GiftShopManager\obj\x86\Debug\GiftShopManager.exe
+E:\C# Coding\PROJECT\GiftShopManager\GiftShopManager\obj\x86\Debug\GiftShopManager.pdb
+E:\C# Coding\PROJECT\GiftShopManager\GiftShopManager\obj\x86\Debug\GiftShopManager.Login.resources
+E:\C# Coding\PROJECT\GiftShopManager\GiftShopManager\obj\x86\Debug\GiftShopManager.csprojResolveAssemblyReference.cache
+E:\C# Coding\PROJECT\GiftShopManager\GiftShopManager\obj\x86\Debug\GiftShopManager.GiftShop.resources
+E:\C# Coding\PROJECT\GiftShopManager\GiftShopManager\obj\x86\Debug\GiftShopManager.SalesReport.resources
+E:\C# Coding\PROJECT\GiftShopManager\GiftShopManager\obj\x86\Debug\GiftShopManager.Admin_Panel.resources
+E:\C# Coding\PROJECT\GiftShopManager\GiftShopManager\obj\x86\Debug\GiftShopManager.New_Order.resources
+E:\C# Coding\GiftShopManager\GiftShopManager\obj\x86\Debug\GiftShopManager.exe
+E:\C# Coding\GiftShopManager\GiftShopManager\obj\x86\Debug\GiftShopManager.pdb
+E:\C# Coding\GiftShopManager\GiftShopManager\bin\Debug\GiftShopManager.exe
+E:\C# Coding\GiftShopManager\GiftShopManager\bin\Debug\GiftShopManager.pdb
+E:\C# Coding\GiftShopManager\GiftShopManager\obj\x86\Debug\GiftShopManager.csprojResolveAssemblyReference.cache
+E:\C# Coding\GiftShopManager\GiftShopManager\obj\x86\Debug\GiftShopManager.Admin_Panel.resources
+E:\C# Coding\GiftShopManager\GiftShopManager\obj\x86\Debug\GiftShopManager.GiftShop.resources
+E:\C# Coding\GiftShopManager\GiftShopManager\obj\x86\Debug\GiftShopManager.Login.resources
+E:\C# Coding\GiftShopManager\GiftShopManager\obj\x86\Debug\GiftShopManager.New_Order.resources
+E:\C# Coding\GiftShopManager\GiftShopManager\obj\x86\Debug\GiftShopManager.Properties.Resources.resources
+E:\C# Coding\GiftShopManager\GiftShopManager\obj\x86\Debug\GiftShopManager.SalesReport.resources
+E:\C# Coding\GiftShopManager\GiftShopManager\obj\x86\Debug\GiftShopManager.csproj.GenerateResource.Cache
+E:\Soft Dev. Project II\GiftShopManager\GiftShopManager\obj\x86\Debug\GiftShopManager.exe
+E:\Soft Dev. Project II\GiftShopManager\GiftShopManager\obj\x86\Debug\GiftShopManager.pdb
+E:\Soft Dev. Project II\GiftShopManager\GiftShopManager\bin\Debug\GiftShopManager.exe
+E:\Soft Dev. Project II\GiftShopManager\GiftShopManager\bin\Debug\GiftShopManager.pdb
+E:\Soft Dev. Project II\GiftShopManager\GiftShopManager\obj\x86\Debug\GiftShopManager.csprojResolveAssemblyReference.cache
+E:\Soft Dev. Project II\GiftShopManager\GiftShopManager\obj\x86\Debug\GiftShopManager.Admin_Panel.resources
+E:\Soft Dev. Project II\GiftShopManager\GiftShopManager\obj\x86\Debug\GiftShopManager.GiftShop.resources
+E:\Soft Dev. Project II\GiftShopManager\GiftShopManager\obj\x86\Debug\GiftShopManager.Login.resources
+E:\Soft Dev. Project II\GiftShopManager\GiftShopManager\obj\x86\Debug\GiftShopManager.New_Order.resources
+E:\Soft Dev. Project II\GiftShopManager\GiftShopManager\obj\x86\Debug\GiftShopManager.Properties.Resources.resources
+E:\Soft Dev. Project II\GiftShopManager\GiftShopManager\obj\x86\Debug\GiftShopManager.SalesReport.resources
+E:\Soft Dev. Project II\GiftShopManager\GiftShopManager\obj\x86\Debug\GiftShopManager.csproj.GenerateResource.Cache
